@@ -15,6 +15,6 @@
 
 ![目录](./Images/Contents.png)  
 
-详情请见于：[课程设计报告](https://github.com/NJU-TJL/PacManX/blob/master/Docs/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%E6%8A%A5%E5%91%8A%20-%20%E5%90%83%E8%B1%86%E4%BA%BA%20PacManX.pdf)  
+详情请见于：[课程设计报告](https://github.com/NJU-TJL/PlantsVsZombies/blob/master/Docs/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%E6%8A%A5%E5%91%8A%20-%20%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8.pdf)  
 
-**转载请注明原作者：https://github.com/NJU-TJL/PacManX**
+**转载请注明原作者：https://github.com/NJU-TJL/PlantsVsZombies**
