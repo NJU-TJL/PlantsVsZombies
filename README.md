@@ -13,7 +13,7 @@
 
 
 
-若**图片加载失败**，可访问CSDN博客查看：https://blog.csdn.net/Kingsman_T/article/details/103879811
+（若**图片加载失败**，可访问CSDN博客查看：https://blog.csdn.net/Kingsman_T/article/details/103879811 或者 同步的码云仓库：https://gitee.com/NJU-TJL/PlantsVsZombies）
 
 ![效果展示gif图](./Images/PVZ_play.gif)
 
